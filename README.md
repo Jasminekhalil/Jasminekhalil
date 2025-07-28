@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Jasmine! 
 
-🎓👩‍💻 **Senior** at Penn State Univeristy, studying **Electrical Engineering and Mathematics**  
+🎓👩‍💻 **Junior** at Penn State Univeristy, studying **Electrical Engineering and Mathematics**  
 
 
 I love tackling real-world problems through predictive modeling and computer vision. I’m big on continuously learning and building my skills, and believe taking initiative is key to growth. *(Ask me about growing my technical skills and leadership as a [Break Through Tech Fellow](#)!)*  
